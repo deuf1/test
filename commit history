@@ -1,0 +1,8 @@
+root@debian:/home/devops/git# git log --oneline --graph --all
+*   74aedd6 (HEAD -> master, origin/master) Merge branch 'test' and resolve the plot conflict
+|\
+| * b618c87 (test) Make the story have a happy start
+* | 066c8f9 Make the story more dramatic
+|/
+* 4beaba5 Add a classic opening line
+* 5e8dd75 Add first line to the story
